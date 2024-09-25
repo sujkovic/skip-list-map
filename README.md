@@ -1,5 +1,7 @@
 # [Assignment 2](https://www.cs.binghamton.edu/~kchiu/cs440/assign/2/)
 
+std::map implementation using a skip list
+
 Name: Adrian Sujkovic
 
 ---
